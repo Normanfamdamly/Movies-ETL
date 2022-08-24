@@ -1,3 +1,3 @@
 # Movies-ETL - Module Challenge 8
 
-Amazing Prime loves the dataset and wants to keep it updated on a daily basis. Britta needs your help to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. You’ll need to refactor the code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
+Amazing Prime wants us to automate our dataset on a daily base with the new movies and rating. They would like us to add this to the exisiting tables we have created and automate it for them for future use.  We will need to take the existing data and clean it up, them refactor our code to make it simpliar and live so it can grow with teh companies dataset. We will be doing this in Jupyter Notebook, with teh use of Python, Pandas and SQL.
